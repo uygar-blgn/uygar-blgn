@@ -1,5 +1,5 @@
-✏️*Uygar Bilgin
+✏️*Uygar Bilgin*
 
-🎓*Bilkent University
+🎓*Bilkent University*
 
-💻*Freshman Year CS Student
+💻*Freshman Year CS Student*
