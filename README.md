@@ -1,3 +1,3 @@
-Uygar Bilgin/n
-Bilkent University/n
-Freshman Year CS Student/n
+Uygar Bilgin\n
+Bilkent University\n
+Freshman Year CS Student\n
