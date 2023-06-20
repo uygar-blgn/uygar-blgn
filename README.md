@@ -2,4 +2,4 @@
 
 🎓*Bilkent University*
 
-💻*Sophomore Year CS Student*
+💻*2nd Year CS Student*
